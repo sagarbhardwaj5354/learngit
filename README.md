@@ -4,4 +4,4 @@ first repository on github
 Author-SAGAR BHARDWAJ
 <br>
 Profile-software developer
-<p>hello friend i ama sagar bhardwaj</p>
+<p>hello friend i am sagar bhardwaj</p>
